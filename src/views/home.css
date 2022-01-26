@@ -1,0 +1,31 @@
+
+.homenavbar{
+   /* display:flex; */
+    background:white;
+    height:20vh;
+    width:100%;
+}
+ 
+ .navbar{
+    height:10vh;
+    /* margin-left: 10%; */
+    background-color:gray;
+    width: 100%;
+}  
+
+.logo-image{
+    display: flex;
+    height:15vh;
+    width:100%;
+    margin-left: 20vh;
+    padding-top: 1vh;
+
+}
+/* .logo-image{
+/* display: flex; */
+    /* height: 100px;  */
+    /* float: left; */
+   /* margin-left: 100px;  */
+    /* margin-top: 10px;  */
+    /* width:150px; */
+/* }  */
